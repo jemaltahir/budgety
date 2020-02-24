@@ -1,2 +1,0 @@
-# budgety
-Created with CodeSandbox
